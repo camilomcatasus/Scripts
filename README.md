@@ -1,5 +1,6 @@
 # Scripts
 Useful Script Dump
+All scripts can be forcefully terminated by pressing the escape key
 ## ScreenShotBook
 Used for taking screenshots of a piece of text that is not easily converted to a file, do not use this tool if you plan on reselling or redistributing a book without permission of the copyright owner. 
 ### How it works
